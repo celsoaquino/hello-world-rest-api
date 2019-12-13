@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66602df0-756f-40f5-b687-4bc9f1579855" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-aws-hello-world-rest-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aws-hello-world-rest-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/01-aws-hello-world-rest-api-1.0.0-RELEASE.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/01-aws-hello-world-rest-api-1.0.0-RELEASE.jar.original" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
@@ -48,6 +52,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1UwL96463EVi5SG0dd4WVPS4da4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -73,7 +84,7 @@
   </component>
   <component name="RunManager">
     <configuration name="RestfulWebServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="01-aws-hello-world-rest-api" />
+      <module name="aws-hello-world-rest-api" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
@@ -104,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576262556283</updated>
       <workItem from="1576262561516" duration="367000" />
-      <workItem from="1576262942814" duration="5271000" />
+      <workItem from="1576262942814" duration="6864000" />
     </task>
     <servers />
   </component>
@@ -116,22 +127,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" width="1100" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1576262966769" />
-    <state width="1323" height="251" key="GridCell.Tab.0.bottom" timestamp="1576271693145">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="251" key="GridCell.Tab.0.bottom" timestamp="1576273330655">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="251" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1576271693145" />
-    <state width="1323" height="251" key="GridCell.Tab.0.center" timestamp="1576271693145">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="251" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576273330655" />
+    <state width="1323" height="251" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1576273039860" />
+    <state width="1323" height="251" key="GridCell.Tab.0.center" timestamp="1576273330654">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="251" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1576271693145" />
-    <state width="1323" height="251" key="GridCell.Tab.0.left" timestamp="1576271693144">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="251" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576273330654" />
+    <state width="1323" height="251" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1576273039860" />
+    <state width="1323" height="251" key="GridCell.Tab.0.left" timestamp="1576273330654">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="251" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1576271693144" />
-    <state width="1323" height="251" key="GridCell.Tab.0.right" timestamp="1576271693145">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="251" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576273330654" />
+    <state width="1323" height="251" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1576273039859" />
+    <state width="1323" height="251" key="GridCell.Tab.0.right" timestamp="1576273330654">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="251" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1576271693145" />
+    <state width="1323" height="251" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1576273330654" />
+    <state width="1323" height="251" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1576273039860" />
     <state width="1323" height="251" key="GridCell.Tab.1.bottom" timestamp="1576265897806">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

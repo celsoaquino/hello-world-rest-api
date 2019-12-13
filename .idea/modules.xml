@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01-aws-hello-world-rest-api.iml" filepath="$PROJECT_DIR$/01-aws-hello-world-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aws-hello-world-rest-api.iml" filepath="$PROJECT_DIR$/aws-hello-world-rest-api.iml" />
     </modules>
   </component>
 </project>
