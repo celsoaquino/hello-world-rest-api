@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66602df0-756f-40f5-b687-4bc9f1579855" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/celsoaquino/rest/webservices/restfulwebservices/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/celsoaquino/rest/webservices/restfulwebservices/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/celsoaquino/rest/webservices/restfulwebservices/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/celsoaquino/rest/webservices/restfulwebservices/HelloWorldController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/docker/image-id" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/docker/image-name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/docker/repository" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/docker/tag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.celsoaquino.rest.webservices/aws-hello-world-rest-api/image-id" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.celsoaquino.rest.webservices/aws-hello-world-rest-api/image-name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.celsoaquino.rest.webservices/aws-hello-world-rest-api/repository" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.celsoaquino.rest.webservices/aws-hello-world-rest-api/tag" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
