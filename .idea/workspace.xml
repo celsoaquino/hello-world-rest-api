@@ -2,38 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66602df0-756f-40f5-b687-4bc9f1579855" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-aws-hello-world-rest-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aws-hello-world-rest-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/01-aws-hello-world-rest-api-1.0.0-RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/01-aws-hello-world-rest-api-1.0.0-RELEASE.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/celsoaquino/rest/webservices/restfulwebservices/HelloWorldBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/celsoaquino/rest/webservices/restfulwebservices/HelloWorldController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/celsoaquino/rest/webservices/restfulwebservices/RestfulWebServicesApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/celsoaquino/rest/webservices/restfulwebservices/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/celsoaquino/rest/webservices/restfulwebservices/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/celsoaquino/rest/webservices/restfulwebservices/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/celsoaquino/rest/webservices/restfulwebservices/HelloWorldController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/docker/image-id" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/docker/image-name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/docker/repository" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/docker/tag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.in28minutes.rest.webservices/01-aws-hello-world-rest-api/image-id" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.in28minutes.rest.webservices/01-aws-hello-world-rest-api/image-name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.in28minutes.rest.webservices/01-aws-hello-world-rest-api/repository" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.in28minutes.rest.webservices/01-aws-hello-world-rest-api/tag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/celsoaquino/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.celsoaquino.rest.webservices/aws-hello-world-rest-api/image-id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.celsoaquino.rest.webservices/aws-hello-world-rest-api/image-name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.celsoaquino.rest.webservices/aws-hello-world-rest-api/repository" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/docker/com.celsoaquino.rest.webservices/aws-hello-world-rest-api/tag" beforeDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -59,6 +56,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1UwL96463EVi5SG0dd4WVPS4da4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -82,6 +82,18 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="RestfulWebServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="aws-hello-world-rest-api" />
@@ -91,18 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -121,6 +121,19 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="18" width="1100" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576262966769">
