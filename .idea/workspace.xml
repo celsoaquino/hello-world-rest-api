@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66602df0-756f-40f5-b687-4bc9f1579855" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/aws-hello-world-rest-api-1.0.0-RELEASE.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.celsoaquino.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
